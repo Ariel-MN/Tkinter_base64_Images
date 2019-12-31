@@ -7,12 +7,13 @@ todo: Documentation
     
     Date created: 30/12/2019
     Date last modified: 31/12/2019
-    Status: Development
+    Status: Stable
 
     Python version: 3.8
     Modules required: pillow, tkinter, base64
 """
-__author__ = 'Ariel Montes Nogueira - http://www.montes.ml'
+__author__ = 'Ariel Montes Nogueira'
+__website__ = 'http://www.montes.ml'
 __email__ = 'arielmontes1989@gmail.com'
 
 __copyright__ = 'Copyright © 2019-present Ariel Montes Nogueira'
