@@ -16,7 +16,7 @@ __author__ = 'Ariel Montes Nogueira'
 __website__ = 'http://www.montes.ml'
 __email__ = 'arielmontes1989@gmail.com'
 
-__copyright__ = 'Copyright © 2019-present Ariel Montes Nogueira'
+__copyright__ = 'Copyright © 2020-present Ariel Montes Nogueira'
 __credits__ = []
 __license__ = '''
                 Licensed under the Apache License, Version 2.0 (the "License");
