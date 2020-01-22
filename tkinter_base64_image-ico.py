@@ -6,7 +6,7 @@ todo: Documentation
     File name: tkinter_base64_image-ico
 
     Date created: 30/12/2019
-    Date last modified: 21/1/2020
+    Date last modified: 22/1/2020
     Status: Stable
 
     Python version: 3.8
@@ -39,12 +39,12 @@ from tkinter import Tk, PhotoImage, Label
 from os import system, remove
 
 
-# Binary encode images:
+# Binary encode image:
 ico_b = b'R0lGODlhMAAwAHAAACH5BAEAAAEALAAAAAAwADAAgQAAAAAAAAAAAAAAAAK6jI+py+0Po5y0Wgny\n3Sh7wG2fF1ojWU4nmkKr1rpvLK/08' \
         b'4JpDuch/zH4REDU0FQ0zpDJ3hIWaSptgWCtKXyOcFTrYbhc\nhFlZanmrMJc7YTb6e0pDwfK3Gq4D6xK2O/yMRuYGxJCnBcUX54cXVyXIyL' \
         b'Ko9+j4BohY2WgJiXnp\n1OXF2cnp+dnZJjalKcgTZbhYGuoKKjXqMCnFtJqrG8jb61VUcnSTCltcityAqjxI2XwJffssXW19\nLV0AADs=\n'
 
-# String encode images:
+# String encode image:
 ico_s = """R0lGODlhMAAwAHAAACH5BAEAAAEALAAAAAAwADAAgQAAAAAAAAAAAAAAAAK6jI+py+0Po5y0Wgny3Sh7wG2fF1ojWU4nmkKr1rpvLK/084JpD
         uch/zH4REDU0FQ0zpDJ3hIWaSptgWCtKXyOcFTrYbhchFlZanmrMJc7YTb6e0pDwfK3Gq4D6xK2O/yMRuYGxJCnBcUX54cXVyXIyLKo9+j4BohY2
         WgJiXnp1OXF2cnp+dnZJjalKcgTZbhYGuoKKjXqMCnFtJqrG8jb61VUcnSTCltcityAqjxI2XwJffssXW19LV0AADs="""
